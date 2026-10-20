@@ -4,7 +4,7 @@ Code for the study **“Temporal and stage-based analysis of tumor-educated plat
 
 This repository contains the computational workflow for analyzing tumor-educated platelet (TEP) RNA-seq data across cancer stages and longitudinal follow-up time points.
 
-![Overview of the TEP RNA-seq cohorts, tDNA workflow, hub identification, enrichment analysis, and differential co-expression benchmarking](overview.png)
+![Overview of the TEP RNA-seq cohorts, tDNA workflow, hub identification, enrichment analysis, and differential co-expression benchmarking](overview_tDNA.png)
 
 ## Study overview
 
