@@ -1,7 +1,5 @@
 # Temporal and stage-based analysis of tumor-educated platelet transcriptomes reveals network-rewiring signatures across cancer progression
 
-Code for the study **“Temporal and stage-based analysis of tumor-educated platelet transcriptomes reveals network-rewiring signatures across cancer progression.”**
-
 This repository contains the computational workflow for analyzing tumor-educated platelet (TEP) RNA-seq data across cancer stages and longitudinal follow-up time points.
 
 ![Overview of the TEP RNA-seq cohorts, tDNA workflow, hub identification, enrichment analysis, and differential co-expression benchmarking](overview_tDNA.png)
@@ -36,28 +34,7 @@ The repository contains the notebooks and scripts used for the analyses. See the
 
 The analyses use Python and Jupyter Notebook for tDNA, and R for data preprocessing and differential co-expression analysis.
 
-The manuscript reports Python 3.12.3. See the repository’s environment or dependency files for package requirements and versions.
-
-## Running the analyses
-
-1. Clone or download this repository.
-2. Prepare the input data as described in the relevant notebook or script.
-3. Install the dependencies specified by the repository’s environment or dependency files.
-4. Run the notebooks or scripts in the order indicated by the workflow.
-
-Random seeds and analysis settings are specified in the corresponding notebooks or scripts.
-
 ## Data
 
-The study uses tumor-educated platelet RNA-seq datasets from the Gene Expression Omnibus (GEO). Dataset accessions, cohort details, and selection criteria are reported in the manuscript.
+The study uses tumor-educated platelet RNA-seq datasets from the Gene Expression Omnibus (GEO). Dataset accessions, cohort details, and selection criteria are reported in the manuscript and can be downloaded from this repository.
 
-## Citation
-
-If you use this code, please cite the associated study:
-
-Rinaldi S., Vessi S., Asquino A., Rughetti A., Farina L., Petti M.  
-*Temporal and stage-based analysis of tumor-educated platelet transcriptomes reveals network-rewiring signatures across cancer progression.*
-
-## License
-
-Add the license that applies to this repository.
