@@ -1,4 +1,4 @@
-# Temporal and stage-based analysis of tumor-educated platelet transcriptomes reveals network-rewiring signatures across cancer progression
+# Joint multilayer differential network inference to uncover persistent and transition-specific rewiring during cancer progression from tumor-educated platelet transcriptome
 
 This repository contains the computational workflow for analyzing tumor-educated platelet (TEP) RNA-seq data across cancer stages and longitudinal follow-up time points.
 
